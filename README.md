@@ -139,9 +139,9 @@ pnpm build
 ### Run the App
 
 ```bash
-npm run dev
+npm run start
 # or
-pnpm dev
+pnpm start
 ```
 
 Visit `localhost:3000` in your browser.
